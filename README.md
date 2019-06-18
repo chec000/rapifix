@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://www.coastercms.org/uploads/images/logo_coaster_github4.jpg"></p>
 
 <p align="center">
@@ -76,3 +77,6 @@ If you'd rather add Coaster CMS to an existing Laravel (v5.5) project, follow th
 1. Add "web-feet/coasterframework": "5.5.*" to the composer.json file and run composer update
 2. Add the service providers CoasterCms\CmsServiceProvider::class and CoasterCms\Providers\CoasterRoutesProvider::class, to your config/app.php file (make sure the routes provider is below any app providers as it has some catch all routes).
 3. Run the script <code>php artisan coaster:update-assets</code>
+=======
+# rapifix
+>>>>>>> 2e97d4c5cbd8d01c464aa379bc024b07127d0291
