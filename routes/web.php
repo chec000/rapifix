@@ -11,11 +11,5 @@
 |
 */
 
-
-Route::group(['middleware' => ['web'], 'prefix' => 'pro', 'namespace' => 'Modules\Products\Http\Controllers'], function ()
-{
-    Route::get('/products', 'ProductsController@index');
-
-});
-
+//Route::get('/', 'ProductController@index');
 

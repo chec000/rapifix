@@ -1,0 +1,57 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Pages Language Lines
+    |--------------------------------------------------------------------------
+    */
+    'for_all_languages'=>' for all languages',
+    'add_new_new_page'=>'Adding New',
+    'global_details'=>'Global Details',
+    'message'=>'There are no pages with the parameters that you sent',
+    'message_delete'=>'The item has been removed',
+    'message_error'=>'The operation wasn´t complete, place try again',
+    'brand'=>'Brand',
+    'country'=>'Country',
+    'language'=>'Language',
+    'page'=>'Page',
+    'add_page'=>'Add Page',
+    'normal_page'=>'Normal Page',
+    'link_document'=>'Link / Document',
+    'group_page'=>'Group Page',
+    'not_live'=>'Not Live',
+    'modal_history_title'=>'History of pages',
+    'name'=>'Name',
+    'url'=>'Url',
+    'brand'=>'Brand',
+    'country'=>'Country',
+    'language'=>'Language',
+    'records_history' => 'Records History',
+    'legend_search' => 'Search',
+    'status'=>'Status',
+    'history'=>'Records History',
+    'duplicate_page'=>'Duplicate Page',
+    'document_page'=>'View Doc / Url',
+    'preview'=>'Preview',
+    'live_page'=>' View Live Page',
+    'delete_confirm'=>'Are you sure you wish to remove the',
+    'remove'=>'Remove',
+    'no'=>'No',
+    'the'=>'The',
+    'yes'=>'Yes',
+    'has_delete'=>'has been deleted',
+    'no_delete'=>'was not deleted (try refreshing the page, you may no longer be logged in',
+    'undo'=>'Undo',
+    'pages' => 'Pages',
+    'search_pages'=>'Search pages',
+    'page_restored'=>'has been restored.',
+    'page_no_restored'=>'was not restored (try refreshing the page, you may no longer be logged in)',
+    'close'=>'Close',
+    'select_option'=>'Select option',
+    'validation_url'=>'url in use by another page!',
+    'duplicate_modal_header' => 'Duplicate page',
+    'duplicate_modal_close' => 'Close',
+    'duplicate_modal_confirm' => 'Confirm',
+];

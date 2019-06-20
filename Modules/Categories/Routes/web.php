@@ -13,4 +13,5 @@
 
 Route::prefix('categories')->group(function() {
     Route::get('/', 'CategoriesController@index');
+
 });

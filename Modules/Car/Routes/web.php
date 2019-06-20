@@ -13,4 +13,8 @@
 
 Route::prefix('car')->group(function() {
     Route::get('/', 'CarController@index');
+    Route::get('/index', ['uses'=>'CarController@index', 'as'=>'index']);
+
 });
+
+
